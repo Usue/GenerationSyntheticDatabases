@@ -1,5 +1,5 @@
-
-This compressed file contains additional information and data concerning the submitted publication titled: 
+﻿
+This directory contains additional information and data concerning the submitted publication titled: 
 
 "Similarity Measure Selection for Clustering Time Series Databases"
 
